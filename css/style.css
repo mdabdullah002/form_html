@@ -1,0 +1,33 @@
+.wrapper{
+    width: 60%;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+label{
+    font-size: 21px; 
+}
+
+.first_name, .last_name, .email, .password {
+    width: 90%;
+    height: 24px;
+    padding: 1px;
+}
+.date_ofbirth {
+    width: 17%;
+    height: 26px;
+    
+}
+.message{
+    font-size: 20px;
+}
+.mytime{
+    background-color: aqua;
+            padding: 10px 30px;
+            font-size: 18px;
+            border-radius: 10px;
+}
+
+.mytime:hover{
+    background-color: tomato;
+}
